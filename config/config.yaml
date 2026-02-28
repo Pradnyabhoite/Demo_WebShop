@@ -1,0 +1,5 @@
+base_url: "https://demowebshop.tricentis.com"
+implicit_wait: 5
+browsers:
+  - chrome
+  - firefox
