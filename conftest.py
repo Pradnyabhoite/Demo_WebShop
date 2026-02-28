@@ -1,43 +1,50 @@
 import pytest
-import configparser
+from selenium import webdriver
+from utils.config_reader import ConfigReader
+import os
 import allure
-from utilities.driver_factory import get_driver
 
 
-def pytest_addoption(parser):
-    parser.addoption("--browser", action="store", default="chrome")
+@pytest.fixture(scope="session")
+def config():
+    return ConfigReader.read_config()
 
 
-@pytest.fixture()
-def setup(request):
+@pytest.fixture(params=ConfigReader.read_config()["browser"])
+def driver(config, request):
+    browser = request.param
 
-    browser = request.config.getoption("--browser")
-    driver = get_driver(browser)
+    if browser == "chrome":
+        driver = webdriver.Chrome()
+    elif browser == "edge":
+        driver = webdriver.Edge()
+    elif browser == "firefox":
+        driver = webdriver.Firefox()
+    else:
+        raise Exception(f"Invalid Browser {browser}")
 
-    config = configparser.ConfigParser()
-    config.read("config/config.ini")
-    base_url = config["common"]["base_url"]
-
-    driver.get(base_url)
-
+    driver.maximize_window()
     yield driver
-    driver.quit()
+
+    driver.close()
 
 
-# Hook for Screenshot on Failure
 @pytest.hookimpl(hookwrapper=True)
 def pytest_runtest_makereport(item, call):
-
     outcome = yield
     rep = outcome.get_result()
-
     if rep.when == "call" and rep.failed:
-
-        driver = item.funcargs.get("setup")
+        driver = item.funcargs.get("driver", None)
         if driver:
-            driver.save_screenshot("screenshots/failure.png")
-            allure.attach.file(
-                "screenshots/failure.png",
-                name="Failure Screenshot",
+            screenshot_dir = os.path.join("reports", "screenshots")
+            os.makedirs(screenshot_dir, exist_ok=True)
+
+            file_path = os.path.join(screenshot_dir, f"{item.name}.png")
+
+            driver.save_screenshot(file_path)
+
+            allure.attach(
+                file_path,
+                name="screenshot",
                 attachment_type=allure.attachment_type.PNG
             )
