@@ -1,0 +1,114 @@
+2026-02-28 18:57:50,579 - INFO - ====== WebDriver manager ======
+2026-02-28 18:57:50,579 - INFO - ====== WebDriver manager ======
+2026-02-28 18:57:50,579 - INFO - ====== WebDriver manager ======
+2026-02-28 18:57:51,858 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:57:51,858 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:57:51,858 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:57:52,338 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:57:52,338 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:57:52,338 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:57:52,536 - INFO - There is no [win64] geckodriver "v0.36.0" for browser firefox "148.0" in cache
+2026-02-28 18:57:52,536 - INFO - There is no [win64] geckodriver "v0.36.0" for browser firefox "148.0" in cache
+2026-02-28 18:57:52,536 - INFO - There is no [win64] geckodriver "v0.36.0" for browser firefox "148.0" in cache
+2026-02-28 18:57:52,536 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:57:52,536 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:57:52,536 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:57:52,748 - INFO - Getting latest mozilla release info for v0.36.0
+2026-02-28 18:57:52,748 - INFO - Getting latest mozilla release info for v0.36.0
+2026-02-28 18:57:52,748 - INFO - Getting latest mozilla release info for v0.36.0
+2026-02-28 18:57:53,176 - INFO - About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+2026-02-28 18:57:53,176 - INFO - About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+2026-02-28 18:57:53,176 - INFO - About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+2026-02-28 18:57:53,968 - INFO - Driver downloading response is 200
+2026-02-28 18:57:53,968 - INFO - Driver downloading response is 200
+2026-02-28 18:57:53,968 - INFO - Driver downloading response is 200
+2026-02-28 18:57:54,334 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:57:54,334 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:57:54,334 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:57:54,833 - INFO - Driver has been saved in cache [C:\Users\Vinu\.wdm\drivers\geckodriver\win64\v0.36.0]
+2026-02-28 18:57:54,833 - INFO - Driver has been saved in cache [C:\Users\Vinu\.wdm\drivers\geckodriver\win64\v0.36.0]
+2026-02-28 18:57:54,833 - INFO - Driver has been saved in cache [C:\Users\Vinu\.wdm\drivers\geckodriver\win64\v0.36.0]
+2026-02-28 18:58:15,767 - INFO - ====== WebDriver manager ======
+2026-02-28 18:58:15,767 - INFO - ====== WebDriver manager ======
+2026-02-28 18:58:15,767 - INFO - ====== WebDriver manager ======
+2026-02-28 18:58:17,118 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:58:17,118 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:58:17,118 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:58:17,651 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:58:17,651 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:58:17,651 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:58:17,874 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-02-28 18:58:17,874 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-02-28 18:58:17,874 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-02-28 18:58:27,601 - INFO - Starting Electronics Page Test
+2026-02-28 18:58:27,601 - INFO - Starting Electronics Page Test
+2026-02-28 18:58:27,601 - INFO - Starting Electronics Page Test
+2026-02-28 18:58:28,289 - INFO - Electronics Page Test Completed
+2026-02-28 18:58:28,289 - INFO - Electronics Page Test Completed
+2026-02-28 18:58:28,289 - INFO - Electronics Page Test Completed
+2026-02-28 18:58:35,678 - INFO - ====== WebDriver manager ======
+2026-02-28 18:58:35,678 - INFO - ====== WebDriver manager ======
+2026-02-28 18:58:35,678 - INFO - ====== WebDriver manager ======
+2026-02-28 18:58:36,909 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:58:36,909 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:58:36,909 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:58:37,151 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:58:37,151 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:58:37,151 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:58:37,464 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-02-28 18:58:37,464 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-02-28 18:58:37,464 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-02-28 18:58:49,368 - INFO - Starting Camera Page Test
+2026-02-28 18:58:49,368 - INFO - Starting Camera Page Test
+2026-02-28 18:58:49,368 - INFO - Starting Camera Page Test
+2026-02-28 18:58:50,988 - INFO - Camera Page Test Completed
+2026-02-28 18:58:50,988 - INFO - Camera Page Test Completed
+2026-02-28 18:58:50,988 - INFO - Camera Page Test Completed
+2026-02-28 18:58:58,265 - INFO - ====== WebDriver manager ======
+2026-02-28 18:58:58,265 - INFO - ====== WebDriver manager ======
+2026-02-28 18:58:58,265 - INFO - ====== WebDriver manager ======
+2026-02-28 18:58:59,449 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:58:59,449 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:58:59,449 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:58:59,638 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:58:59,638 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:58:59,638 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:58:59,823 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-02-28 18:58:59,823 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-02-28 18:58:59,823 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-02-28 18:59:09,396 - INFO - Starting CellPhone Page Test
+2026-02-28 18:59:09,396 - INFO - Starting CellPhone Page Test
+2026-02-28 18:59:09,396 - INFO - Starting CellPhone Page Test
+2026-02-28 18:59:10,889 - INFO - CellPhone Page Test Completed
+2026-02-28 18:59:10,889 - INFO - CellPhone Page Test Completed
+2026-02-28 18:59:10,889 - INFO - CellPhone Page Test Completed
+2026-02-28 18:59:18,282 - INFO - ====== WebDriver manager ======
+2026-02-28 18:59:18,282 - INFO - ====== WebDriver manager ======
+2026-02-28 18:59:18,282 - INFO - ====== WebDriver manager ======
+2026-02-28 18:59:19,512 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:59:19,512 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:59:19,512 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:59:19,943 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:59:19,943 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:59:19,943 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-28 18:59:20,128 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-02-28 18:59:20,128 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-02-28 18:59:20,128 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-02-28 18:59:29,437 - INFO - Starting Register Test
+2026-02-28 18:59:29,437 - INFO - Starting Register Test
+2026-02-28 18:59:29,437 - INFO - Starting Register Test
+2026-02-28 18:59:29,437 - INFO - Starting user registration
+2026-02-28 18:59:29,437 - INFO - Starting user registration
+2026-02-28 18:59:29,437 - INFO - Starting user registration
+2026-02-28 18:59:29,984 - INFO - Clicked on Register link
+2026-02-28 18:59:29,984 - INFO - Clicked on Register link
+2026-02-28 18:59:29,984 - INFO - Clicked on Register link
+2026-02-28 18:59:30,076 - INFO - Generated Email: test_rvmra@gmail.com
+2026-02-28 18:59:30,076 - INFO - Generated Email: test_rvmra@gmail.com
+2026-02-28 18:59:30,076 - INFO - Generated Email: test_rvmra@gmail.com
+2026-02-28 18:59:31,179 - INFO - Clicked on Register button
+2026-02-28 18:59:31,179 - INFO - Clicked on Register button
+2026-02-28 18:59:31,179 - INFO - Clicked on Register button
+2026-02-28 18:59:31,181 - INFO - Register Test Completed
+2026-02-28 18:59:31,181 - INFO - Register Test Completed
+2026-02-28 18:59:31,181 - INFO - Register Test Completed
