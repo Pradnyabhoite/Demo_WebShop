@@ -1,44 +1,41 @@
-# -------------------------
-# Python
-# -------------------------
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
 
-# -------------------------
-# Virtual Environment
-# -------------------------
+#Virtual Environment
+Demo_WebShop/
 venv/
-.env/
-.env*/
+env/
+.env
+bin/
+Lib/
+Include/
+pyvenv.cfg
 
-# -------------------------
-# PyCharm / IDE
-# -------------------------
-.idea/
-*.iml
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
 
-# -------------------------
 # Logs
-# -------------------------
-logs/
 *.log
+logs/
 
-# -------------------------
-# Reports (Allure / HTML / Screenshots)
-# -------------------------
+# Test Reports (Pytest-html, Allure)
 reports/
+htmlcov/
+.coverage
 allure-results/
 allure-report/
 
-# -------------------------
-# Browser Profiles (Playwright / Selenium)
-# -------------------------
-automation_chrome_profile/
+# Screenshots (Failed tests)
+screenshots/
 
-# -------------------------
-# OS junk
-# -------------------------
-.DS_Store
-Thumbs.db
+# JetBrains (PyCharm)
+.idea/
+
+# VS Code
+.vscode/
+
+# Other
+.DS_Store (Mac specific)
+Thumbs.db (Windows specific)
