@@ -1,0 +1,42 @@
+2026-02-28 13:31:16,391 - INFO - ====== WebDriver manager ======
+2026-02-28 13:31:16,391 - INFO - ====== WebDriver manager ======
+2026-02-28 13:31:17,806 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-28 13:31:17,806 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-28 13:31:18,092 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-28 13:31:18,092 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-28 13:31:18,348 - INFO - There is no [win64] chromedriver "145.0.7632.117" for browser google-chrome "145.0.7632" in cache
+2026-02-28 13:31:18,348 - INFO - There is no [win64] chromedriver "145.0.7632.117" for browser google-chrome "145.0.7632" in cache
+2026-02-28 13:31:18,349 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-28 13:31:18,349 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-28 13:31:18,967 - INFO - WebDriver version 145.0.7632.117 selected
+2026-02-28 13:31:18,967 - INFO - WebDriver version 145.0.7632.117 selected
+2026-02-28 13:31:18,972 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-02-28 13:31:18,972 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-02-28 13:31:18,972 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-02-28 13:31:18,972 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-02-28 13:31:19,199 - INFO - Driver downloading response is 200
+2026-02-28 13:31:19,199 - INFO - Driver downloading response is 200
+2026-02-28 13:31:21,737 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-28 13:31:21,737 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-28 13:31:22,459 - INFO - Driver has been saved in cache [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117]
+2026-02-28 13:31:22,459 - INFO - Driver has been saved in cache [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117]
+2026-02-28 13:31:32,479 - INFO - ====== WebDriver manager ======
+2026-02-28 13:31:32,479 - INFO - ====== WebDriver manager ======
+2026-02-28 13:31:33,745 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-28 13:31:33,745 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-28 13:31:34,015 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-28 13:31:34,015 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-28 13:31:34,337 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-28 13:31:34,337 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-28 13:31:38,170 - INFO - Starting Register Test
+2026-02-28 13:31:38,170 - INFO - Starting Register Test
+2026-02-28 13:31:38,170 - INFO - Starting user registration
+2026-02-28 13:31:38,170 - INFO - Starting user registration
+2026-02-28 13:31:38,848 - INFO - Clicked on Register link
+2026-02-28 13:31:38,848 - INFO - Clicked on Register link
+2026-02-28 13:31:39,069 - INFO - Generated Email: test_tjzvv@gmail.com
+2026-02-28 13:31:39,069 - INFO - Generated Email: test_tjzvv@gmail.com
+2026-02-28 13:31:41,077 - INFO - Clicked on Register button
+2026-02-28 13:31:41,077 - INFO - Clicked on Register button
+2026-02-28 13:31:41,094 - INFO - Register Test Completed
+2026-02-28 13:31:41,094 - INFO - Register Test Completed
