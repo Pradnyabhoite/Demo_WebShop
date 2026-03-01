@@ -2,6 +2,7 @@
 #Virtual Environment
 Demo_WebShop/
 venv/
+.venv/
 env/
 .env
 bin/
