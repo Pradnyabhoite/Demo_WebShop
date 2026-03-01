@@ -1,7 +1,8 @@
 import re
 
 from selenium.webdriver.common.by import By
-
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from pages.base_page import BasePage
 
 class ElectronicsPage(BasePage):
@@ -15,6 +16,7 @@ class ElectronicsPage(BasePage):
     PRODUCT_PRICES = (By.XPATH, "//span[@class='price actual-price']")
     GRID_VIEW = (By.XPATH, "//*[@id='products-viewmode']/option[1]")
     LIST_VIEW = (By.XPATH, "//*[@id='products-viewmode']/option[2]")
+    PRODUCT_TITLE = (By.XPATH, "//h2[@class='product-title']")
 
 
 
@@ -81,6 +83,24 @@ class ElectronicsPage(BasePage):
         return all (prices[i] >= prices[i+1]
                     for i in range(len(prices)- 1))
 
+    def sort_products(self, sort_option):
+        self.select_dropdown_by_visible_text(self.SORT_DROPDOWN, sort_option)
+        self.get_elements(self.PRODUCT_TITLE)
+
+
+    def get_product_names(self):
+        elements = self.driver.find_elements(*self.PRODUCT_TITLE)
+        return [el.text.strip() for el in elements]
+
+    def is_price_sorted(self, reverse = False):
+        prices = self.get_prices()
+        print("Prices After Sorting: ", prices)
+        return prices == sorted(prices, reverse=reverse)
+
+    def is_name_sorted(self, reverse = False):
+        names = self.get_product_names()
+        print("Prices After Sorting: ", names)
+        return names == sorted(names, reverse=reverse)
 
 
 

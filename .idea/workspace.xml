@@ -5,11 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ed1545b-3d47-442e-a49e-4791559216a4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/test_data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_data/sorting_data.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_sorting_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/excel_reader.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/base_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/electronics_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/electronics_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/allure-results/04dbdd85-4d98-4d83-805c-dee4282971f5-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/allure-results/05ea0aa8-ea57-43ee-87bb-40b35d80b7f1-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/allure-results/1be7a13d-8bbf-43c3-9e50-20f633c5e3be-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/allure-results/1f0ad9a0-8cef-498e-80d0-a7af3c29dc7c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/allure-results/32ec7711-2f6d-4464-b935-d96575c5f599-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/allure-results/36042bb1-9463-49de-94d1-e51d884651be-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/allure-results/4466c516-0852-4c36-b4d1-29b0b82afea5-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/allure-results/5eedb434-39fd-4712-816a-d7f8f6416cee-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/allure-results/6138ca67-98e3-42e4-a823-413ac6bf2dff-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/allure-results/636a2baa-0538-4c1e-a393-c84e6644443b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/allure-results/6391326d-45f2-4068-9e26-fe2c32dfd0e9-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/allure-results/66e66fed-26b3-4833-86e2-f80552568a51-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/allure-results/705bb7e0-5bcc-4dd4-acd9-14aa3ddd4e2e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/allure-results/7484a839-ab3a-4d94-8595-5005a0fc34ea-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/allure-results/768060f4-8d91-4a9f-8ef3-3045a3c6b760-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/allure-results/7fcc2a52-c260-45b0-9667-028158947fff-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/allure-results/8377da7a-7b1c-4b24-96e8-f380180eb225-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/allure-results/84efcf92-dfbb-4f0c-8ba8-183539c24987-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/allure-results/898542dd-caf3-453b-8bb1-2e7a0f57fe8d-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/allure-results/8cdd2be1-47e0-4c26-9137-0238f7b7a10e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/allure-results/97e5056a-5677-4173-8cad-b06619cb026a-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/allure-results/9b6d9675-a612-4b55-91b5-b18861837c91-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/allure-results/a3b0c9d1-d1d9-46b8-9345-7abe7ce4f8a2-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/allure-results/b7ac5bdd-5971-45c9-9531-07519fce07ca-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/allure-results/dfe969dd-24c2-479d-9f77-8127e213e246-result.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/reports/html_report.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html_report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failure.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/failure.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_electronics.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_electronics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/driver_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/driver_factory.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,17 +76,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;vishnu&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Python Automation/PythonProject/Demo_WebShop&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "vishnu",
+    "last_opened_file_path": "D:/Python Automation/PythonProject/Demo_WebShop/test_data",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python Automation\PythonProject\Demo_WebShop\test_data" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="DemoWebShop_Framework" />

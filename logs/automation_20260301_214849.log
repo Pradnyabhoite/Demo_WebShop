@@ -1,0 +1,87 @@
+2026-03-01 21:49:10,025 - INFO - Starting Electronics Page Test
+2026-03-01 21:49:10,025 - INFO - Starting Electronics Page Test
+2026-03-01 21:49:10,025 - INFO - Starting Electronics Page Test
+2026-03-01 21:49:10,732 - INFO - Electronics Page Test Completed
+2026-03-01 21:49:10,732 - INFO - Electronics Page Test Completed
+2026-03-01 21:49:10,732 - INFO - Electronics Page Test Completed
+2026-03-01 21:49:20,680 - INFO - Starting Camera Page Test
+2026-03-01 21:49:20,680 - INFO - Starting Camera Page Test
+2026-03-01 21:49:20,680 - INFO - Starting Camera Page Test
+2026-03-01 21:49:22,171 - INFO - Camera Page Test Completed
+2026-03-01 21:49:22,171 - INFO - Camera Page Test Completed
+2026-03-01 21:49:22,171 - INFO - Camera Page Test Completed
+2026-03-01 21:49:32,158 - INFO - Starting CellPhone Page Test
+2026-03-01 21:49:32,158 - INFO - Starting CellPhone Page Test
+2026-03-01 21:49:32,158 - INFO - Starting CellPhone Page Test
+2026-03-01 21:49:33,575 - INFO - CellPhone Page Test Completed
+2026-03-01 21:49:33,575 - INFO - CellPhone Page Test Completed
+2026-03-01 21:49:33,575 - INFO - CellPhone Page Test Completed
+2026-03-01 21:49:43,983 - INFO - Hovering Page Test Started
+2026-03-01 21:49:43,983 - INFO - Hovering Page Test Started
+2026-03-01 21:49:43,983 - INFO - Hovering Page Test Started
+2026-03-01 21:49:44,382 - INFO - Hovering Page Test Ended
+2026-03-01 21:49:44,382 - INFO - Hovering Page Test Ended
+2026-03-01 21:49:44,382 - INFO - Hovering Page Test Ended
+2026-03-01 21:49:54,688 - INFO - Sorting High to Low Prices Started
+2026-03-01 21:49:54,688 - INFO - Sorting High to Low Prices Started
+2026-03-01 21:49:54,688 - INFO - Sorting High to Low Prices Started
+2026-03-01 21:50:03,426 - INFO - Testing Grid And List View Started
+2026-03-01 21:50:03,426 - INFO - Testing Grid And List View Started
+2026-03-01 21:50:03,426 - INFO - Testing Grid And List View Started
+2026-03-01 21:50:05,027 - INFO - Testing List View Ended
+2026-03-01 21:50:05,027 - INFO - Testing List View Ended
+2026-03-01 21:50:05,027 - INFO - Testing List View Ended
+2026-03-01 21:50:05,028 - INFO - Testing Grid View Started
+2026-03-01 21:50:05,028 - INFO - Testing Grid View Started
+2026-03-01 21:50:05,028 - INFO - Testing Grid View Started
+2026-03-01 21:50:05,541 - INFO - Testing Grid View Ended
+2026-03-01 21:50:05,541 - INFO - Testing Grid View Ended
+2026-03-01 21:50:05,541 - INFO - Testing Grid View Ended
+2026-03-01 21:50:15,508 - INFO - Testing Sorting Data Using Data Driven Started
+2026-03-01 21:50:15,508 - INFO - Testing Sorting Data Using Data Driven Started
+2026-03-01 21:50:15,508 - INFO - Testing Sorting Data Using Data Driven Started
+2026-03-01 21:50:23,554 - INFO - Testing Sorting Data Using Data Driven Started
+2026-03-01 21:50:23,554 - INFO - Testing Sorting Data Using Data Driven Started
+2026-03-01 21:50:23,554 - INFO - Testing Sorting Data Using Data Driven Started
+2026-03-01 21:50:41,214 - INFO - Testing Sorting Data Using Data Driven Started
+2026-03-01 21:50:41,214 - INFO - Testing Sorting Data Using Data Driven Started
+2026-03-01 21:50:41,214 - INFO - Testing Sorting Data Using Data Driven Started
+2026-03-01 21:50:43,911 - INFO - Testing Sorting Data Using Data Driven Ended
+2026-03-01 21:50:43,911 - INFO - Testing Sorting Data Using Data Driven Ended
+2026-03-01 21:50:43,911 - INFO - Testing Sorting Data Using Data Driven Ended
+2026-03-01 21:50:56,625 - INFO - Testing Sorting Data Using Data Driven Started
+2026-03-01 21:50:56,625 - INFO - Testing Sorting Data Using Data Driven Started
+2026-03-01 21:50:56,625 - INFO - Testing Sorting Data Using Data Driven Started
+2026-03-01 21:51:17,509 - INFO - Testing Sorting Data Using Data Driven Ended
+2026-03-01 21:51:17,509 - INFO - Testing Sorting Data Using Data Driven Ended
+2026-03-01 21:51:17,509 - INFO - Testing Sorting Data Using Data Driven Ended
+2026-03-01 21:51:27,800 - INFO - Starting Register Test
+2026-03-01 21:51:27,800 - INFO - Starting Register Test
+2026-03-01 21:51:27,800 - INFO - Starting Register Test
+2026-03-01 21:51:27,801 - INFO - Starting user registration
+2026-03-01 21:51:27,801 - INFO - Starting user registration
+2026-03-01 21:51:27,801 - INFO - Starting user registration
+2026-03-01 21:51:28,371 - INFO - Clicked on Register link
+2026-03-01 21:51:28,371 - INFO - Clicked on Register link
+2026-03-01 21:51:28,371 - INFO - Clicked on Register link
+2026-03-01 21:51:28,535 - INFO - Generated Email: test_txveb@gmail.com
+2026-03-01 21:51:28,535 - INFO - Generated Email: test_txveb@gmail.com
+2026-03-01 21:51:28,535 - INFO - Generated Email: test_txveb@gmail.com
+2026-03-01 21:51:30,007 - INFO - Clicked on Register button
+2026-03-01 21:51:30,007 - INFO - Clicked on Register button
+2026-03-01 21:51:30,007 - INFO - Clicked on Register button
+2026-03-01 21:51:30,019 - INFO - Register Test Completed
+2026-03-01 21:51:30,019 - INFO - Register Test Completed
+2026-03-01 21:51:30,019 - INFO - Register Test Completed
+2026-03-01 21:51:40,215 - INFO - Testing Sorting Data Using Exel Data Driven Started
+2026-03-01 21:51:40,215 - INFO - Testing Sorting Data Using Exel Data Driven Started
+2026-03-01 21:51:40,215 - INFO - Testing Sorting Data Using Exel Data Driven Started
+2026-03-01 21:51:48,123 - INFO - Testing Sorting Data Using Exel Data Driven Started
+2026-03-01 21:51:48,123 - INFO - Testing Sorting Data Using Exel Data Driven Started
+2026-03-01 21:51:48,123 - INFO - Testing Sorting Data Using Exel Data Driven Started
+2026-03-01 21:51:56,193 - INFO - Testing Sorting Data Using Exel Data Driven Started
+2026-03-01 21:51:56,193 - INFO - Testing Sorting Data Using Exel Data Driven Started
+2026-03-01 21:51:56,193 - INFO - Testing Sorting Data Using Exel Data Driven Started
+2026-03-01 21:52:06,495 - INFO - Testing Sorting Data Using Exel Data Driven Started
+2026-03-01 21:52:06,495 - INFO - Testing Sorting Data Using Exel Data Driven Started
+2026-03-01 21:52:06,495 - INFO - Testing Sorting Data Using Exel Data Driven Started

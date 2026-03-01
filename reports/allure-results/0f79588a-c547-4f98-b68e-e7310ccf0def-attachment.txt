@@ -1,0 +1,1 @@
+Prices After Sorting:  ['High Definition 3D Camcorder', 'Digital SLR Camera 12.2 Mpixel', 'Camcorder', '1MP 60GB Hard Drive Handycam Camcorder']

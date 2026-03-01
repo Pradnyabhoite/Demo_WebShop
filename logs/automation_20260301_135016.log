@@ -1,0 +1,162 @@
+2026-03-01 13:50:16,996 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:16,996 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:16,996 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:20,705 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:20,705 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:20,705 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:21,472 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:21,472 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:21,472 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:21,664 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:21,664 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:21,664 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:22,140 - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-01 13:50:22,140 - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-01 13:50:22,140 - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-01 13:50:22,145 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-01 13:50:22,145 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-01 13:50:22,145 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-01 13:50:22,146 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-01 13:50:22,146 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-01 13:50:22,146 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-01 13:50:22,337 - INFO - Driver downloading response is 200
+2026-03-01 13:50:22,337 - INFO - Driver downloading response is 200
+2026-03-01 13:50:22,337 - INFO - Driver downloading response is 200
+2026-03-01 13:50:23,889 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:23,889 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:23,889 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:24,465 - INFO - Driver has been saved in cache [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-01 13:50:24,465 - INFO - Driver has been saved in cache [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-01 13:50:24,465 - INFO - Driver has been saved in cache [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-01 13:50:24,594 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:24,594 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:24,594 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:27,235 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:27,235 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:27,235 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:28,081 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:28,081 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:28,081 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:28,704 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:28,704 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:28,704 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:28,755 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:28,755 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:28,755 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:31,359 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:31,359 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:31,359 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:31,658 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:31,658 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:31,658 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:31,883 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:31,883 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:31,883 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:31,935 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:31,935 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:31,935 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:34,467 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:34,467 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:34,467 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:34,662 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:34,662 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:34,662 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:34,857 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:34,857 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:34,857 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:34,907 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:34,907 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:34,907 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:37,549 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:37,549 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:37,549 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:37,752 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:37,752 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:37,752 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:38,045 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:38,045 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:38,045 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:38,096 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:38,096 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:38,096 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:40,675 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:40,675 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:40,675 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:40,886 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:40,886 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:40,886 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:41,080 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:41,080 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:41,080 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:41,138 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:41,138 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:41,138 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:43,738 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:43,738 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:43,738 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:43,922 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:43,922 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:43,922 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:44,114 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:44,114 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:44,114 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:44,163 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:44,163 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:44,163 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:46,761 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:46,761 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:46,761 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:47,404 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:47,404 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:47,404 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:47,751 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:47,751 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:47,751 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:47,803 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:47,803 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:47,803 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:50,390 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:50,390 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:50,390 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:50,575 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:50,575 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:50,575 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:50,766 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:50,766 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:50,766 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:50,817 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:50,817 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:50,817 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:53,427 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:53,427 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:53,427 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:53,610 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:53,610 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:53,610 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:53,836 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:53,836 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:53,836 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:53,894 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:53,894 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:53,894 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:56,498 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:56,498 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:56,498 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:56,719 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:56,719 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:56,719 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:56,917 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:56,917 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:56,917 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:56,969 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:56,969 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:56,969 - INFO - ====== WebDriver manager ======
+2026-03-01 13:50:59,562 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:59,562 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:59,562 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:59,749 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:59,749 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:59,749 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-01 13:50:59,939 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:59,939 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-03-01 13:50:59,939 - INFO - Driver [C:\Users\Vinu\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache

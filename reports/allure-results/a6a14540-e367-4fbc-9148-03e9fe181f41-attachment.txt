@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_sorting_excel.py:13 Testing Sorting Data Using Exel Data Driven Started
+[32mINFO    [0m root:test_sorting_excel.py:25 Testing Sorting Data Using Exel Data Driven Ended
