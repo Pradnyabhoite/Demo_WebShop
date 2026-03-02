@@ -8,14 +8,15 @@ from tests.base_test import BaseTest
 
 class TestBooks(BaseTest):
 
-    @allure.feature("Demo Web Shop - Product")
+    @allure.feature("Demo Web Shop - Book")
     @allure.description(
         "To verify that the user is able to successfully navigate to the Books section from the homepage.")
     @pytest.mark.smoke
     def test_verify_navigation_to_book_page(self):
         books_page = BooksPage(self.driver)
 
-        allure.dynamic.story(self.driver)
+        allure.dynamic.story(self.driver.__class__.__name__)
+
         with allure.step("Opening Demo Web Shop homepage."):
             books_page.open_home_page(self.config.get("base_url"))
 
@@ -25,13 +26,13 @@ class TestBooks(BaseTest):
         with allure.step("Verifying the user is redirected to the Books page"):
             assert "books" in books_page.driver.current_url
 
-    @allure.feature("Demo Web Shop - Product")
+    @allure.feature("Demo Web Shop - Book")
     @allure.description("To verify that a user can add a book to the shopping cart from the Books listing page.")
     @pytest.mark.smoke
     def test_add_book_to_shopping_cart(self):
         books_page = BooksPage(self.driver)
 
-        allure.dynamic.story(self.driver)
+        allure.dynamic.story(self.driver.__class__.__name__)
 
         with allure.step("Opening Demo Web Shop books page."):
             books_page.open_books_page(self.config.get("base_url"))
@@ -42,13 +43,14 @@ class TestBooks(BaseTest):
         with allure.step("Verifying product added to cart message displayed."):
             assert "product has been added" in books_page.get_product_added_to_cart()
 
-    @allure.feature("Demo Web Shop - Product")
+    @allure.feature("Demo Web Shop - Book")
     @allure.description("To verify that the 'Sort by' feature correctly reorganizes books by price.")
     @pytest.mark.regression
     def test_verify_sorting_functionality(self):
         books_page = BooksPage(self.driver)
 
-        allure.dynamic.story(self.driver)
+        allure.dynamic.story(self.driver.__class__.__name__)
+
         with allure.step("Opening Demo Web Shop books page."):
             books_page.open_books_page(self.config.get("base_url"))
 
@@ -61,13 +63,14 @@ class TestBooks(BaseTest):
             sorted_price.sort()
             assert sorted_price == prices
 
-    @allure.feature("Demo Web Shop - Product")
+    @allure.feature("Demo Web Shop - Book")
     @allure.description("To verify that the user can change the number of products displayed per page.")
     @pytest.mark.regression
     def test_change_display_page_size(self):
         books_page = BooksPage(self.driver)
 
-        allure.dynamic.story(self.driver)
+        allure.dynamic.story(self.driver.__class__.__name__)
+
         with allure.step("Opening Demo Web Shop books page."):
             books_page.open_books_page(self.config.get("base_url"))
 
@@ -78,14 +81,15 @@ class TestBooks(BaseTest):
             names = books_page.get_products_name()
             assert "4" == str(len(names))
 
-    @allure.feature("Demo Web Shop - Product ")
+    @allure.feature("Demo Web Shop - Book")
     @allure.description("To verify that clicking on a book name opens the detailed product page.")
     @pytest.mark.regression
     def test_product_information(self):
         books_page = BooksPage(self.driver)
         product_page = ProductPage(self.driver)
 
-        allure.dynamic.story(self.driver)
+        allure.dynamic.story(self.driver.__class__.__name__)
+
         with allure.step("Opening Demo Web Shop books page."):
             books_page.open_books_page(self.config.get("base_url"))
 
