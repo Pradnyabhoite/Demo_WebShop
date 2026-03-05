@@ -6,7 +6,7 @@ from config.config import Config
 
 @pytest.fixture
 def setup():
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+    driver = webdriver.Chrome()
     driver.maximize_window()
     driver.get(Config.BASE_URL)
     yield driver
