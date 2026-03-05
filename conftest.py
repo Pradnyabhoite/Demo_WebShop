@@ -26,7 +26,7 @@ def config():
 #     driver.quit()
 
 @pytest.fixture(params=ConfigReader.read_config()["browser"])
-def driver(request):
+def driver(config, request):
     browser = request.param
 
     if browser == "chrome":
@@ -41,6 +41,7 @@ def driver(request):
     driver.maximize_window()
     yield driver
     driver.quit()
+
 
 @pytest.hookimpl(hookwrapper=True)
 def pytest_runtest_makereport(item, call):
